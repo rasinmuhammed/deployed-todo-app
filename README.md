@@ -48,7 +48,7 @@ npm start
 5.Open the app in your browser:
 http://localhost:3000
 
-##Usage
+## Usage
 
 Sign up or log in to start managing your tasks.
 Add new tasks by clicking the "Add Task" button and providing the necessary details.
@@ -56,11 +56,11 @@ Edit tasks by clicking on the task and making the desired changes.
 Delete tasks by clicking on the task and selecting the delete option.
 Use the sorting options to organize tasks based on their due date.
 
-##Contributing
+## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, please open an issue or submit a pull request.
 
-##License
+## License
 
 This project is licensed under the MIT License.
 
